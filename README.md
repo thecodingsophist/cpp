@@ -10,7 +10,7 @@ Resources:
 
 #GOAL(s):
 
-Work through Accelerated C++: Practical Programming By Example examples by July 12, 2020
+Work through Accelerated C++: Practical Programming By Example examples by October 15, 2020
 
 Difficulties:
 
